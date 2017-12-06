@@ -1,0 +1,16 @@
+.svg{
+  display: block;
+  text-indent: -9999px;
+  height: 500px;
+  background: url(../SVG.svg),no-repeat;
+ 
+  background-repeat: no-repeat;
+}
+tr{
+    border:1px solid blac;
+    
+    }
+td{
+    border:1px solid blac;
+    }
+    
